@@ -6,8 +6,8 @@ I love working on new and interesting projects, whether big or small! Currently,
  
 <h2 align="center">Recent Public Work</h2>
 <p align="center">
-<img height="100em" src=https://github-readme-stats.vercel.app/api/pin/?username=LoJoSho&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&repo=EcoMythic />
-<img height="100em" src=https://github-readme-stats.vercel.app/api/pin/?username=LoJoSho&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&repo=SimplisticPing />
+<img height="120em" src=https://github-readme-stats.vercel.app/api/pin/?username=LoJoSho&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&repo=EcoMythic />
+<img height="120em" src=https://github-readme-stats.vercel.app/api/pin/?username=LoJoSho&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&repo=SimplisticPing />
 </p>
 
 

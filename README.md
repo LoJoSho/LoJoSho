@@ -1,14 +1,17 @@
-## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LoJoSho!
+<h1 align="center"> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LoJoSho! </h1>
 
-- I love working on new and interesting projects, whether big or small!
-- I currently use Java to create new programs.
-  - Paper for Minecraft Server Plugins.
-  - JDA for Discord Bots.
-- Here is some of my most recent public work:
-  - [EcoMythic](https://github.com/LoJoSho/EcoMythic) Link Eco plugins with MythicMobs.
-  - [SimplisticPing](https://github.com/LoJoSho/SimplisticPing) A simple ping plugin with MiniMessage support.
-- Where you can find me:
-  -  [Paper Forums](https://forums.papermc.io/members/lojosho.59/)
-  -  Discord @ LoJoSho#0001
+<p align="center">
+I love working on new and interesting projects, whether big or small! Currently, I am mostly using Java to create plugins for the Bukkit/Spigot/Paper APIs. I also create discord bots using JDA.
+</p>
+ 
+<h2 align="center">Recent Public Work</h2>
+<p align="center">
+<img height="140em" src=https://github-readme-stats.vercel.app/api/pin/?username=LoJoSho&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&repo=EcoMythic />
+<img height="140em" src=https://github-readme-stats.vercel.app/api/pin/?username=LoJoSho&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&repo=SimplisticPing />
+</p>
 
-![LoJoSho's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoJoSho&count_private=true&show_icons=true&theme=dark)
+
+<h2 align="center">Github Stats</h2>
+<p align="center">
+<img height="240em" src=https://github-readme-stats.vercel.app/api?username=LoJoSho&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff />
+</p>

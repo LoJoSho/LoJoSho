@@ -19,3 +19,19 @@ I love working on new and interesting projects, whether big or small! Currently,
 <p align="center">
 <img height="240em" src=https://github-readme-stats.vercel.app/api?username=LoJoSho&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff />
 </p>
+
+ <h2 align="center">Experience</h2>
+<p align="center">
+Auxilor Plugin Commission Team \ Freelance Developer (2022->Present)
+  <p align="center">
+Rapidz Network \ Developer (2021)
+ <p align="center">
+Fredisaal Server \ Network Adminstrator (2020->Present)
+ <p align="center">
+FluffEconomy \ Server Adminstrator & Developer (2019->Present)
+   <p align="center">
+Endlandz \ Network Adminstrator (2019->2020)
+ <p align="center">
+G.E.A.R.S Support \ Support Staff (2018->Present)
+
+</p>

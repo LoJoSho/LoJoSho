@@ -28,7 +28,7 @@ Auxilor Plugin Commission Team \ Freelance Developer (2022->Present)
   <p align="center">
 Rapidz Network \ Developer (2021)
  <p align="center">
-Fredisaal Server \ Network Adminstrator (2020->Present)
+Fredisaal Server \ Network Adminstrator (2020->2022)
  <p align="center">
 FluffEconomy \ Server Adminstrator & Developer (2019->Present)
    <p align="center">

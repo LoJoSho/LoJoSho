@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LoJoSho! </h1>
+<h1 align="center"> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30">, I'm LoJoSho! </h1>
 
 <p align="center">
 I love working on new and interesting projects, whether big or small! Currently, I am mostly using Java to create plugins for the Bukkit/Spigot/Paper APIs. I also create discord bots using JDA.

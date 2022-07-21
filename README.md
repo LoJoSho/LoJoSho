@@ -14,7 +14,7 @@
 
 <br>
 
-### Languages to Tools:
+### Languages and Tools:
 [<img align="left" alt="Java" width="44px" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" />](#)
 [<img align="left" alt="IntelliJ" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />](#)
 [<img align="left" alt="MySQL" width="44px" src="https://blog.sqlbackupandftp.com/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1.png" />](#)

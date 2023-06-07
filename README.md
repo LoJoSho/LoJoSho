@@ -3,7 +3,7 @@
 
 ### About Me
 
-- ⏰ 2+ Years Experience with Java and MySQL.
+- ⏰ 3+ Years Experience with Java and MySQL.
 - 🎁 Experience with Bukkit to JDA.
 - 🎓 Studying at college.
 - 🎨 Hobbies include chillin with YouTube, reading Manhwa, playing with my amazing puppy ❤️ 

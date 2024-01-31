@@ -6,7 +6,7 @@
 - ⏰ 3+ Years Experience with Java and MySQL.
 - 🎁 Experience with Bukkit to JDA.
 - 🎓 Studying at college.
-- 🎨 Hobbies include chillin with YouTube, reading Manhwa, playing with my amazing puppy ❤️ 
+- 🎨 Hobbies include watching Etho, reading Manhwa, and playing with my 2 amazing puppies ❤️ 
 - 📬 How to reach me contact@lojosho.com / LoJoSho#0001
 
 ### Discord:

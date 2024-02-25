@@ -7,7 +7,7 @@
 - 🎁 Experience with Bukkit to JDA.
 - 🎓 Studying at college.
 - 🎨 Hobbies include watching Etho, reading Manhwa, and playing with my 2 amazing puppies ❤️ 
-- 📬 How to reach me contact@lojosho.com / LoJoSho#0001
+- 📬 How to reach me [LoJoSho#0001](https://discord.com/users/105350206798741504)
 
 ### Discord:
 [<img align="left" alt="LoJoSho | Discord" width="44px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />](https://discord.gg/tn8M5CEBat)

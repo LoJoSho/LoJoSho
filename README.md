@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! I'm LoJoSho. </h1>
+<h1 align="center"> Hello! I'm Logan. </h1>
 <h4 align="center"> I create new and unique experiences for players around the world. </h4>
 
 ### About Me

@@ -13,11 +13,16 @@
 
 ### Current Projects
 
-- [HMCCosmetics](https://github.com/HibiscusMC/HMCCosmetics)
+- [HMCCosmetics](https://github.com/HibiscusMC/HMCCosmetics)  
+  - A *Minecraft* Cosmetic Plugin that seeks to add cosmetics to the Java Edition of the game safely for server operators. For sale on [Polymart](https://polymart.org/resource/hmccosmetics.1879). Proudly Open Source. 
 - [Hibiscus Commons](https://github.com/HibiscusMC/HibiscusCommons)
+  - A *Minecraft* Plugin that handles boilerplate between the many Hibiscus plugins that rely on the same underlying systems. Mostly for internal use, however, is offered with HMC plugins to help them run. 
 - [HMCConverter](https://github.com/HibiscusMC/HMCCConverter)
+  - An online converter that utilizes the platform Discord to convert files from one format to another. A perk of purchasing the plugin but still being open source. 
 - Java Developer @ [Hibiscus Creative Studios](https://github.com/HibiscusMC)
+  - Build and maintain private plugins, such as HMCCooking, HMCQuests, and HMCHuskHomes, that better the player experience with new features, all the while squashing bugs to ensure the best experience. 
 - Java Developer @ [Cow Creations](https://store.wildwoodsmp.com/)
+  - Upgrade and enhance applications that work at scale on a constantly evolving network that deals with a large load of players seeking a new experience different from many other servers. 
 
 ### Online Presence:
 [<img align="left" alt="LoJoSho | Discord" width="44px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />](https://discord.gg/tn8M5CEBat)

@@ -3,16 +3,23 @@
 
 ### About Me
 
-- ⏰ 3+ Years Experience with Java, MySQL, and MongoDB.
+- ⏰ 3+ Years Experience with Java, SQL, and MongoDB.
 - 🎁 Experience with Bukkit, Paper API, JDA, and other Java frameworks.
 - 📊 Proficient in R, Tableau, and Power BI for data analysis and visualization.
 - 🛠️ Skilled in Git for version control and collaborative development.
 - 🐍 Familiar with Python for scripting and data-related tasks.
 - 🎓 Studying at college.
-- 🎨 Hobbies include watching Etho, reading Manhwa, and playing with my 2 amazing puppies ❤️ 
-- 📬 How to reach me [LoJoSho#0001](https://discord.com/users/105350206798741504)
+- 🎨 Currently playing with my 2 amazing puppies ❤️ 
 
-### Discord:
+### Current Projects
+
+- [HMCCosmetics](https://github.com/HibiscusMC/HMCCosmetics)
+- [Hibiscus Commons](https://github.com/HibiscusMC/HibiscusCommons)
+- [HMCConverter](https://github.com/HibiscusMC/HMCCConverter)
+- Java Developer @ [Hibiscus Creative Studios](https://github.com/HibiscusMC)
+- Java Developer @ [Cow Creations](https://store.wildwoodsmp.com/)
+
+### Online Presence:
 [<img align="left" alt="LoJoSho | Discord" width="44px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />](https://discord.gg/tn8M5CEBat)
 
 <br>

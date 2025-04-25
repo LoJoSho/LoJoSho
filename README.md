@@ -3,7 +3,7 @@
 
 ### About Me
 
-- ⏰ 3+ Years Experience with Java, SQL, and MongoDB.
+- ⏰ 4+ Years Experience with Java, SQL, and MongoDB.
 - 🎁 Experience with Bukkit, Paper API, JDA, and other Java frameworks.
 - 📊 Proficient in R, Tableau, and Power BI for data analysis and visualization.
 - 🛠️ Skilled in Git for version control and collaborative development.
